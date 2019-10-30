@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="list_todo">List Todo</string>
+    <string name="todo_view_title">TODO</string>
+    <string name="todo_name_hint">Todo Name</string>
+    <string name="todo_edit_text_hint">TODO</string>
+    <string name="update_todo">UPDATE TODO</string>
+</resources>
