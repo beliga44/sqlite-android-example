@@ -47,10 +47,6 @@ public class ListViewTodoAdapter extends BaseAdapter {
         }
 
         Todo selectedTodo = (Todo) getItem(position);
-
-        TextView textViewTodoName = view.findViewById(R.id.textViewTodoName);
-        textViewTodoName.setText(selectedTodo.getName());
-
         return view;
     }
 }
